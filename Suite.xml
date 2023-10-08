@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Login CMS" verbose="1">
+    <test name="AddCategory Test CMS">
+        <classes>
+            <class name="BT1_BT2_BT3.Edit_DeleteCategory">
+                <methods>
+                    <include name="testEditCategory"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
