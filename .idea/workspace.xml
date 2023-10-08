@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17486b9c-afbb-4dd9-94a0-7f68ba10dd07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WTT6Kt0qxbCfad4YNkHLR4l69w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Edit_DeleteCategory">
+    <configuration name="AddCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BT_SeleniumMavenTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT1_BT2_BT3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BT1" />
+      <option name="MAIN_CLASS_NAME" value="BT1_BT2_BT3.AddCategory" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automationtest/Selenium/BaiTap/BT_SeleniumMavenTestNG/Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BT_SeleniumMavenTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Edit_DeleteCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BT_SeleniumMavenTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT1_BT2_BT3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BT1_BT2_BT3" />
+      <option name="MAIN_CLASS_NAME" value="BT1_BT2_BT3.Edit_DeleteCategory" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Edit_DeleteCategory.testEditCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BT_SeleniumMavenTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT1_BT2_BT3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BT1_BT2_BT3" />
+      <option name="MAIN_CLASS_NAME" value="BT1_BT2_BT3.Edit_DeleteCategory" />
+      <option name="METHOD_NAME" value="testEditCategory" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Edit_DeleteCategory" />
+        <item itemvalue="TestNG.Edit_DeleteCategory.testEditCategory" />
+        <item itemvalue="TestNG.D:/Automationtest/Selenium/BaiTap/BT_SeleniumMavenTestNG/Suite.xml" />
+        <item itemvalue="TestNG.BT1_AddCategory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17486b9c-afbb-4dd9-94a0-7f68ba10dd07" name="Changes" comment="" />
+      <created>1696755395640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696755395640</updated>
+    </task>
+    <servers />
+  </component>
+</project>
